@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Authentication true</description>
+   <name>AuthError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e90333a6-3607-4fe9-9e29-6a9c2a791d1e</testCaseGuid>
+</TestCaseEntity>
